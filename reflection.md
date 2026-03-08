@@ -8,7 +8,7 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 - List at least two concrete bugs you noticed at the start  
   (for example: "the hints were backwards").
 
----
+--- Initially the issue that I saw is that it had a list for display for history and that the ranging for scoring were inaccurate as Normal was 3rd tier for return value when Hard should be and vice versa. It also was telling me to go higher when I was already at 100 so it was out of range. 
 
 ## 2. How did you use AI as a teammate?
 
